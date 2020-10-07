@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Aided Engineering | Mahmoud Ammar</title>
+    <link>/tag/computer-aided-engineering/</link>
+      <atom:link href="/tag/computer-aided-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Aided Engineering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufd51855d62eaf479e888c08860b63d40_58678_512x512_fill_lanczos_center_2.png</url>
+      <title>Computer Aided Engineering</title>
+      <link>/tag/computer-aided-engineering/</link>
+    </image>
+    
+    <item>
+      <title>Design and Fabrication of a Vertical Axis Wind Turbine for Urban Utility</title>
+      <link>/project/bachelor/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/project/bachelor/</guid>
+      <description>&lt;p&gt;A micro vertical axis wind turbine was designed with a combination of Darrius and Savonius designs. The report included the selected components of the wind turbine with material selection and bill of materials for the fabrication. Furthermore, proper calculations and analysis were done on the blades and the designed structure to ensure the practicality of the design. The steps of fabrication, methods and machines used were explained too.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

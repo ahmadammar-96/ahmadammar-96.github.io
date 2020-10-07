@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Immersed Boundary Method | Mahmoud Ammar</title>
+    <link>/tag/immersed-boundary-method/</link>
+      <atom:link href="/tag/immersed-boundary-method/index.xml" rel="self" type="application/rss+xml" />
+    <description>Immersed Boundary Method</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufd51855d62eaf479e888c08860b63d40_58678_512x512_fill_lanczos_center_2.png</url>
+      <title>Immersed Boundary Method</title>
+      <link>/tag/immersed-boundary-method/</link>
+    </image>
+    
+    <item>
+      <title>Immersed Boundary pisoFoam Solver</title>
+      <link>/project/ibmfoam/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/project/ibmfoam/</guid>
+      <description>&lt;p&gt;To address the computations of solid particles in a fluid flow, one has to solve the transient Navier-Stokes (NS) equations in the fluid domain with the imposition of no-slip boundary con- dition at the interface between the fluid domain and the solid object. One way to achieve this is by the application of arbitrary Lagrangian-Eulerian method, which combines the advantages of both Lagrangian descripton following an individual parcel as it moves through space and Eulerian description focusing on specific locations in the space. However, this method requires adaptive meshing depending on solid particles displacements as time evolves and therefore leads to a substantial computational cost. To avoid repeated re-meshing, the whole computational domain containing the fluid and the solid is meshed with a fixed structured cartesian grid. As a result, the grid will most probably not conform to the solids boundary. Here, the introduction of the solid phase to the governing flow equations is achieved by adequately formulating the source term marked in the NS equation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
