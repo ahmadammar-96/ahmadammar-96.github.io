@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Numerical Methods | Mahmoud Ammar</title>
+    <link>/tag/numerical-methods/</link>
+      <atom:link href="/tag/numerical-methods/index.xml" rel="self" type="application/rss+xml" />
+    <description>Numerical Methods</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufd51855d62eaf479e888c08860b63d40_58678_512x512_fill_lanczos_center_2.png</url>
+      <title>Numerical Methods</title>
+      <link>/tag/numerical-methods/</link>
+    </image>
+    
+    <item>
+      <title>Implementation of a solver for the NS-Equations</title>
+      <link>/project/cfd/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/project/cfd/</guid>
+      <description>&lt;p&gt;The slides of the project aims to explain the whole steps of implementing the 2D solver. It starts with discussing the results of the advection-diffusion equation and its stability, then the time integration using Runge-Kutta method. This is followed with discussing the results with pressure correction and the numerical differences between the iterative and direct solvers used.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

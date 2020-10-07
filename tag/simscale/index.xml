@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SimScale | Mahmoud Ammar</title>
+    <link>/tag/simscale/</link>
+      <atom:link href="/tag/simscale/index.xml" rel="self" type="application/rss+xml" />
+    <description>SimScale</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufd51855d62eaf479e888c08860b63d40_58678_512x512_fill_lanczos_center_2.png</url>
+      <title>SimScale</title>
+      <link>/tag/simscale/</link>
+    </image>
+    
+    <item>
+      <title>CFD Analysis for a Pump Design</title>
+      <link>/project/pumping/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project/pumping/</guid>
+      <description>&lt;p&gt;The main task of this project was to conduct a CFD analysis of a pump design on the SimScale platform. Post-processing was done in ParaView and the pump curves were calculated.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
