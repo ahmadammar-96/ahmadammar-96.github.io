@@ -1,87 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mahmoud Ammar</title>
+    <title>Ahmad Ammar</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mahmoud Ammar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <description>Ahmad Ammar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/images/icon_hufd51855d62eaf479e888c08860b63d40_58678_512x512_fill_lanczos_center_2.png</url>
-      <title>Mahmoud Ammar</title>
+      <title>Ahmad Ammar</title>
       <link>/</link>
     </image>
     
     <item>
-      <title>Immersed Boundary pisoFoam Solver</title>
-      <link>/project/ibmfoam/</link>
-      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/project/ibmfoam/</guid>
-      <description>&lt;p&gt;To address the computations of solid particles in a fluid flow, one has to solve the transient Navier-Stokes (NS) equations in the fluid domain with the imposition of no-slip boundary con- dition at the interface between the fluid domain and the solid object. One way to achieve this is by the application of arbitrary Lagrangian-Eulerian method, which combines the advantages of both Lagrangian descripton following an individual parcel as it moves through space and Eulerian description focusing on specific locations in the space. However, this method requires adaptive meshing depending on solid particles displacements as time evolves and therefore leads to a substantial computational cost. To avoid repeated re-meshing, the whole computational domain containing the fluid and the solid is meshed with a fixed structured cartesian grid. As a result, the grid will most probably not conform to the solids boundary. Here, the introduction of the solid phase to the governing flow equations is achieved by adequately formulating the source term marked in the NS equation.&lt;/p&gt;
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>CFD Analysis for a Pump Design</title>
-      <link>/project/pumping/</link>
-      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/project/pumping/</guid>
-      <description>&lt;p&gt;The main task of this project was to conduct a CFD analysis of a pump design on the SimScale platform. Post-processing was done in ParaView and the pump curves were calculated.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Structural Wind Analysis of The High-Rise Building JPMorgan Chase Tower Using the Eurocode Standard and CFD Simulations</title>
-      <link>/project/wind/</link>
-      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/project/wind/</guid>
-      <description>&lt;p&gt;The main task of this project was to conduct a CFD analysis of the high-rise building JPMorgan Chase Tower, Houston, Texas, USA. Historical wind velocities for the previous 72 years were collected from the National Oceanic and Atmospheric Administration database and an analytical aerostatic and aerodynamic analysis using the Eurocode was performed on the building. In this work, GiD was employed for the pre-processing step of the case and CFD analysis was done using KRATOS, an open-source project developed by the chair of Structural Analysis at TUM and the International Center for Numerical Methods in Engineering (CIMNE) in Barcelona, Spain.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Space-Time Finite Elements For 1D Heat Equation</title>
-      <link>/project/spacetime/</link>
-      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/project/spacetime/</guid>
-      <description>&lt;p&gt;An alternate method to model transient PDEs, where time is considered as a dimension, in contrast to the conventional transient FEM, where the space is discretized and a time intrgration scheme is applied. Thus, the 1D problem becomes 2D, and the shape functions are a tensor product of space and time. This approach is advntegous for its exponential convergence in time (when using high order shape functions), the ability to perform local time refinement, etc.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fluid-Structure Interaction Simulation with Multiple Interfaces</title>
-      <link>/project/fsi/</link>
-      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/project/fsi/</guid>
-      <description>&lt;p&gt;The report of the project aims to explain the literature review, work flow, and results of a group project. The tasks were to implement different coupling algorithms for two
-and three springs systems, for a three coupled beams system, and finally solve an FSI problem with two interfaces. In this present work, the first two tasks were implemented in Python and different relaxation methods were used to compare the results, and the last task was implemented in Python using Kratos Multiphysics for the analysis, and GiD for visualization.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Isogeometric analyis of trimmed membrane structures</title>
-      <link>/project/trimmed/</link>
-      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/project/trimmed/</guid>
-      <description>&lt;p&gt;The task was to extend a given code for the IGA of untrimmed membranes to the application of trimmed IGA. IGA uses the CAD information as an analysis model, instead of constructing a separate computational model. In order to get accurate results, a k-refinement is performed on the geometrical model. To represent complex geometries trimmed NURBS geometries are employed. In this present work, form finding is done on trimmed membrane surfaces. This project is implemented using MATLAB for the analysis and Rhino to define the geometries.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Implementation of a solver for the NS-Equations</title>
-      <link>/project/cfd/</link>
-      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/project/cfd/</guid>
-      <description>&lt;p&gt;The slides of the project aims to explain the whole steps of implementing the 2D solver. It starts with discussing the results of the advection-diffusion equation and its stability, then the time integration using Runge-Kutta method. This is followed with discussing the results with pressure correction and the numerical differences between the iterative and direct solvers used.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Design and Fabrication of a Vertical Axis Wind Turbine for Urban Utility</title>
-      <link>/project/bachelor/</link>
-      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/project/bachelor/</guid>
-      <description>&lt;p&gt;A micro vertical axis wind turbine was designed with a combination of Darrius and Savonius designs. The report included the selected components of the wind turbine with material selection and bill of materials for the fabrication. Furthermore, proper calculations and analysis were done on the blades and the designed structure to ensure the practicality of the design. The steps of fabrication, methods and machines used were explained too.&lt;/p&gt;
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     

@@ -3,128 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tag/c-/</loc>
-    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/cfd/</loc>
-    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/immersed-boundary-method/</loc>
-    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/ibmfoam/</loc>
-    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/pumping/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/simscale/</loc>
-    <lastmod>2019-06-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/python/</loc>
-    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/structural-analysis/</loc>
-    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/wind/</loc>
-    <lastmod>2019-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/fem/</loc>
-    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/spacetime/</loc>
-    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/fsi/</loc>
-    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/formfinding/</loc>
-    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/iga/</loc>
-    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/trimmed/</loc>
-    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/matlab/</loc>
-    <lastmod>2018-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/cfd/</loc>
-    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/numerical-methods/</loc>
-    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/computer-aided-engineering/</loc>
-    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/bachelor/</loc>
-    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/renewable-energy/</loc>
-    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/wind-turbines/</loc>
-    <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+    <loc>/author/ahmad-ammar/</loc>
   </url>
   
   <url>
@@ -133,10 +26,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/mahmoud-ammar/</loc>
   </url>
   
   <url>
@@ -153,6 +42,10 @@
   
   <url>
     <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

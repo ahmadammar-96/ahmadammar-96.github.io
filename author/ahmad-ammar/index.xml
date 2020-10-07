@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Ahmad Ammar</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
+    <title>Ahmad Ammar</title>
+    <link>/author/ahmad-ammar/</link>
+      <atom:link href="/author/ahmad-ammar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ahmad Ammar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/images/icon_hufd51855d62eaf479e888c08860b63d40_58678_512x512_fill_lanczos_center_2.png</url>
-      <title>Authors</title>
-      <link>/authors/</link>
+      <title>Ahmad Ammar</title>
+      <link>/author/ahmad-ammar/</link>
     </image>
     
   </channel>
