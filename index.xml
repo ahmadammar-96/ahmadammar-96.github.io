@@ -5,12 +5,21 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Ahmad Ammar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufd51855d62eaf479e888c08860b63d40_58678_512x512_fill_lanczos_center_2.png</url>
       <title>Ahmad Ammar</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Characterization of ELIP genes in the desiccation tolerant Lindernia brevidens and its desiccation sensitive counterpart Lindernia subracemosa.</title>
+      <link>/project/master/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/master/</guid>
+      <description>&lt;p&gt;Among the many studied abiotic stresses, extreme light stress (high or low) represents a huge challenge for food production, namely due to the prevailing combinatorial effects of extreme light and dehydration during the summer season. This work will provide more insights into the stress-responsive genes of the newly sequenced genomes of the homoiochlorophyllous desiccation tolerant L. brevidens and its desiccation sensitive counterpart L. subracemosa. The Master thesis aims at identifying several light-responsive genes, namely the ones coding for the Early Light-induced Proteins (ELIPs) in addition to analyzing both their transcript expression profiles and amino acid sequences. ELIPs are expressed as a result of the combinatorial effect of illumination with high incident light and desiccation treatment. They are involved in protecting the photosynthetic apparatus by binding to Chl a and preventing its degradation. Thereby indirectly protecting the plant from photooxidative stress by preventing the formation of triplet chlorophyll, a potent photosensitizer that causes oxidative damage by converting harmless molecular oxygen into harmful singlet oxygen. The analysis will include comprehensive comparisons between the regulation of ELIP gene expression in the resurrection plant L. brevidens, L. subracemosa, other ELIPs belonging to the family of Linderniaceae, and some homologous protein members of the CAB/ELIP/HLIP superfamily of distantly related polypeptides. Ultimately, the road will be paved for other researchers to use the provided data to explore the crosstalk between dehydration and light stress as well as explore new frontiers to exploit this crosstalk. This research can provide leads to more efficiently breed concurrent tolerance to crops without damaging the performance of plants nor curtailing their yields.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Privacy Policy</title>
@@ -27,6 +36,15 @@
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       <guid>/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Novel Multi-Floor Hexagonal Design for the Commercial Hydroponic Production of the Loose-Leaf Lettuce Oscarde (Asteraceae Lactuca Sativa L.)</title>
+      <link>/project/bachelor/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/project/bachelor/</guid>
+      <description>&lt;p&gt;Tremendous amount of research has been conducted in the field of hydroponic systems. Recent research has given rise to new production techniques that are more efficient and self-sustainable than contemporary agricultural plant production practices which leave a negative footprint on the environment. Henceforth, hydroponic systems are emerging as a new technology that could potentially suffice the deficit in agricultural production and supersede conventional agriculture as the primary producer of vegetables. Hydroponic production is becoming an attractive frontier for investors and plethora of studies revealed the benefits of hydroponic systems. The major advantage of hydroponic systems is the tight control over plants’ growth environment. That is, to reach the optimum production capacity, several parameters should be vigilantly controlled and monitored. In this report, the production of Lettuce Oscarde was divided into two stages, the germination and transplantation stages. The Germination of lettuce will incorporate the use of Nutrient Film Technique whereas the production of lettuce will incorporate the novel multi-floor hexagonal design. One Module involved in the production stage will resemble a hexagonal prism. The honeycomb-like structure of the stacked hexagonal prisms will conserve space and increase production. An overview of a production facility with the capacity to germinate as much as 223,200,000 seeds and produce as much as 168,407,424 plants was described.&lt;/p&gt;
 </description>
     </item>
     
